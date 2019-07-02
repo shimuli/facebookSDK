@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">comfiy</string>
+    <string name="facebook_app_id">482713315606242</string>
+    <string name="facebook_login_protocal_scheme">fb482713315606242</string>
 </resources>
