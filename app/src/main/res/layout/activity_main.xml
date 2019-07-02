@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/com_facebook_button_background"
     tools:context=".MainActivity">
 
     <LinearLayout
@@ -30,6 +31,15 @@
             android:layout_height="wrap_content"
             android:text="Share Video"
             />
+
+        <TextView
+            android:paddingTop="100dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textStyle="italic"
+            android:text="By Cedric Shimuli"/>
 
     </LinearLayout>
 
