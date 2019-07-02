@@ -20,7 +20,7 @@
             </intent-filter>
         </activity>
         <provider
-            android:authorities="com.facebook.app.FaceBookContentProvider"
+            android:authorities="com.facebook.app.FaceBookContentProvider482713315606242"
             android:name="com.facebook.FacebookContentProvider"
             android:exported="true"/>
 
